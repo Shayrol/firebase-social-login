@@ -7,4 +7,4 @@ Next.js + Typescript + Firebase
 - .env = 파이어베이스 연동 API Key
 - index.tsx = 로그인 컴포넌트 + 로그아웃
 
-  >> ㄹㄴㅇㄻㄴㅇ
+  **ㅇㅇㅇㅇ**
